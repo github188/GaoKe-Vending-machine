@@ -1,7 +1,0 @@
-#Sat Sep 30 11:43:01 CST 2017
-base.0=D\:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1a5abfa7ebe39ae8eeed9e7605836e42a3057c27
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_91e43332a91a225bc170facc4e1e6f93c86aac1e\\classes.dex
-base.1=D\:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_91e43332a91a225bc170facc4e1e6f93c86aac1e
-file.0=D\:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1a5abfa7ebe39ae8eeed9e7605836e42a3057c27\\classes.dex

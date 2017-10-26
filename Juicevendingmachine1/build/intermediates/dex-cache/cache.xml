@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_057fb2acce13e2a842de98abd7415e6859793e69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\9647f23c6ab43baf30f0fe9aba0c4585c2665834\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80d1d2f3dd410fed9678e5ef041da3c35ee83d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\792dd70a8907939faf6492b9d2c66afe47b05a4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12c775d0995f76d3a0cdf05aa6bc3c9170f2a0a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\libs\BmobPay_v3.1.1_170111.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86d15061e5401b6fd1a7d4f2da9eeedb7d0c4617">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobPay_v3.1.1_170111_b588cfdeb8eab34d5dfc16a0358b6079e914350f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\2e6cd9d0b80961cf1fb23dbf0997fb442b0e77fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e962fcb7acbe45e0784d944365117205a6a47f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1a5abfa7ebe39ae8eeed9e7605836e42a3057c27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.8_a96b441766f59f1819cde51788492fd0d4bd6f1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_87219e29e9abdefd7c80dc5064f13de3ae93974d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_67738862616c4c8b97a983383871ddbf187694a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\c86cb8fc231f62154939f36470c64be4e051eec8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d28e7e21bbce0f1cacb454e7c68a7a603b149667\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\9940104da71404ba18218e21b944c78607ec9768\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07ed8f762d9df1084d0788a65bb5682b987e6f5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_f33d38655eb340917ba28676c89794907dd48c01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\d2c36884f3b8f740278e0635595fd647f7e09393\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5402246b01f4c7f6a120e897c9bb79b6ae167a5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b8a1c260e760975092906fcb7cd29f5c2676025">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_91e43332a91a225bc170facc4e1e6f93c86aac1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\271761dedb07f96b661c13944083b546af1a9c52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9468239aaf7540eaf5bc6e106ecb27abec90c0ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\08ae15a91dbcc5197cbe22af13ab02d496ce8745\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1717a0cea6633cbfc870f9d5f518bea13ee771eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\53b9cd578b3f61962886a23d415d904d5ea1890d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61f4024f6cf14b55836ef124bdcba219a787dbc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\libs\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.2.1_6317793c4aa65185912ac0467275d0a42698e736\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\86124d3807d5a7ff7fd3cbdfba93757c86495c33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ac6183a164ab621418590b2fc7c70795eafe67a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\14246\.android\build-cache\8e058839173facde6e2c58e14fc8536301532a05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c29e54524b53d1eeb6e41b95b972a02603df606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\libs\BmobSMS_V1.0.1_20150710.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df9db564e2842696a68deca39b0186aebf3dc07c">
+        <dex dex="D:\WorkSpace\AndroidProjects\Juicevendingmachine1\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSMS_V1.0.1_20150710_f03877c9a2b3548e36bfa74446a1e61d7ccadf19\classes.dex" />
+    </item>
+
+</items>

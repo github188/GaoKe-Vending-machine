@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\center_title_action_bar.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\center_title_action_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_option.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_pay_option.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\encode.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\encode.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mode_of_payment.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_mode_of_payment.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\share.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\share.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\libraryS\\build\\intermediates\\bundles\\default\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_picker_list_item.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\bookmark_picker_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shopitem.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\shopitem.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alipay.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_alipay.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\search_book_contents.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_header.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\lv_header.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_function.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_function.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_choose.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_pay_choose.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_layout.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\grid_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goods.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_goods.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_picker_list_item.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\app_picker_list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_list_item.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_function.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_function.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xxx.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_xxx.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_header.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\search_book_contents_header.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_choose.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_pay_choose.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mode_of_payment.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_mode_of_payment.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goods.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_goods.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_item.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\encode.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\encode.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shopgoods.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_shopgoods.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_list_item.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\search_book_contents_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_option.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_pay_option.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\libraryS\\build\\intermediates\\bundles\\default\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_header.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\lv_header.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alipay.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_alipay.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_header.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\search_book_contents_header.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xxx.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_xxx.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\share.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\share.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_picker_list_item.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\bookmark_picker_list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_item.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents_list_item.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\search_book_contents_list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_list_item.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\center_title_action_bar.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\center_title_action_bar.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_picker_list_item.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\app_picker_list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shopgoods.xml",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\activity_shopgoods.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_layout.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\grid_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shopitem.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\shopitem.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_book_contents.xml",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\layout\\search_book_contents.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    }
+]

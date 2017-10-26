@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\android-sdk1\\.android\\build-cache\\8a37098992f014cd9cab411618fb4510caa6f9d5\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\14246\\.android\\build-cache\\d2c36884f3b8f740278e0635595fd647f7e09393\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

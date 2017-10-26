@@ -1,0 +1,874 @@
+[
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\system_version.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\system_version.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_mode_refrigeration.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_mode_refrigeration.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\auto1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\auto1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heating1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\heating1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\login_bg.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_phone.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\help_phone.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seek_bkg.9.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\seek_bkg.9.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_boot_close.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_boot_close.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_auto2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_auto2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot4.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot4.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\middle_wind2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\middle_wind2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_bg.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_bg.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\et_delete_right.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\et_delete_right.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\high_wind1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\high_wind1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot12.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot12.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\middle_wind1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\middle_wind1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot18.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot18.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_give_air.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_give_air.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot16.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot16.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot14.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot14.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\refrigeration1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\refrigeration1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot21.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot21.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_arrow.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\temp_circel.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\temp_circel.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_give_air1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_give_air1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heating2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\heating2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_dehumidification1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_dehumidification1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot9.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_heating1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_heating1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_dehumidification.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_dehumidification.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\indoor.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\indoor.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_heat.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_heat.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_family_pic.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\help_family_pic.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\multiply_choice.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\multiply_choice.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_remote_pic.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\help_remote_pic.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_refrigeration2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_refrigeration2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_high_wind1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_high_wind1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_give_air2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_give_air2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unchecked.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unchecked.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_phone.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\help_phone.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\circle1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn2click.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn2click.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unchecked.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unchecked.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_low_wind2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_low_wind2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_high_wind2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_high_wind2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\transparent.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\transparent.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\suggestfeedback.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\suggestfeedback.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_dehumidification1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_dehumidification1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot11.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot11.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot5.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot5.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot14.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot14.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\low_wind2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\low_wind2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gatewaylogo.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\gatewaylogo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_pm2_5.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_pm2_5.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_temp.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_temp.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot6.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot6.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\indoor.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\indoor.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot9.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_low_wind.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_low_wind.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_disabled.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\give_air2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\give_air2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn3click.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn3click.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dehumidification1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\dehumidification1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_middle_wind1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_middle_wind1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\give_air1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\give_air1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\goods.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\goods.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\give_air1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\give_air1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_dehumidification.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_dehumidification.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_middle_wind.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_middle_wind.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\give_air2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\give_air2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\suggestfeedback.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\suggestfeedback.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_huni.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_huni.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot8.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot8.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot20.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot20.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\low_wind2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\low_wind2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_refrigeration1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_refrigeration1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_heating2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_heating2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\transparent.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\transparent.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\con_bac.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\con_bac.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\launch_logo.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\launch_logo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\auto2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\auto2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\high_wind1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\high_wind1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\share_via_barcode.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\share_via_barcode.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\settingsetting.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\settingsetting.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\self_logo.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\self_logo.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot17.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot17.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn2click.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn2click.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot6.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot6.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot10.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot10.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_heating2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_heating2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_dehumidification2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_dehumidification2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_auto_wind_speed.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_auto_wind_speed.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot7.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot7.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\high_wind2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\high_wind2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot7.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot7.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_inside_temp.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\list_inside_temp.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\low_wind1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\low_wind1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\settingsetting.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\settingsetting.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\low_wind1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\low_wind1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seek_bkg.9.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\seek_bkg.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot15.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot15.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\share_via_barcode.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\share_via_barcode.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn3click.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn3click.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_high_wind.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_high_wind.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\temp_circel.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\temp_circel.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\goods.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\goods.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\con_bac.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\con_bac.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot16.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot16.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot10.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot10.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_refrigeration2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_refrigeration2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\multiply_choice.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\multiply_choice.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\middle_wind1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\middle_wind1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\actionbar_bg.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_bg.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\free.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\free.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\high_wind2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\high_wind2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot20.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot20.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_give_air2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_give_air2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_inside_pm2_5.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\list_inside_pm2_5.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_heat.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_heat.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_remote_pic.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\help_remote_pic.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_family_pic.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\help_family_pic.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\refrigeration2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\refrigeration2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_high_wind.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_high_wind.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\login_bg.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\login_bg.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot5.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot5.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\et_delete_right.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\et_delete_right.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\middle_wind2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\middle_wind2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot19.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot19.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot11.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot11.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seek.9.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\seek.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dehumidification1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\dehumidification1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_auto1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_auto1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_middle_wind1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_middle_wind1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\refrigeration2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\refrigeration2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_give_air1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_give_air1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_dehumidification2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_dehumidification2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot15.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot15.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_auto_wind_speed.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_auto_wind_speed.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_mode_refrigeration.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_mode_refrigeration.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heating1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\heating1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\auto2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\auto2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_disabled.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\applogo.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\applogo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot8.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot8.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\self_logo.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\self_logo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\heating2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\heating2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot17.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot17.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\applogo.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\applogo.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot21.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot21.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_give_air.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_give_air.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn3.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn3.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot3.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot3.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\updateroomname.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\updateroomname.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_huni.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_huni.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_auto1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_auto1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot12.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot12.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot18.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot18.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seek_thumb.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\seek_thumb.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\auto1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\auto1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\free.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\free.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_arrow.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot4.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot4.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\input_bg.9.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\input_bg.9.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_inside_temp.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\list_inside_temp.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_heating1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_heating1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_middle_wind.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_middle_wind.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_low_wind1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_low_wind1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn1click.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn1click.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checked.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_temp.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_temp.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_low_wind.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_low_wind.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\add.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_boot_close.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_boot_close.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_inside_pm2_5.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\list_inside_pm2_5.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_auto2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_auto2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gatewaylogo.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\gatewaylogo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_high_wind1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_high_wind1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_logo.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\user_logo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle1.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\circle1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checked.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot3.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot3.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot13.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot13.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_middle_wind2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_middle_wind2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn3.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn3.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dehumidification2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\dehumidification2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_middle_wind2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_middle_wind2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_low_wind1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_low_wind1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\updateroomname.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\updateroomname.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\system_version.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\system_version.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\input_bg.9.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\input_bg.9.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\dehumidification2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\dehumidification2.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_low_wind2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_low_wind2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seek.9.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\seek.9.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot19.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot19.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\current_pm2_5.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\current_pm2_5.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\refrigeration1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\refrigeration1.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn2.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_high_wind2.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_high_wind2.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unify_refrigeration1.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\unify_refrigeration1.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\boot13.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\boot13.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\launch_logo.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\launch_logo.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\belowbtn1click.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\belowbtn1click.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_logo.png",
+        "source": "D:\\WorkSpace\\AndroidProjects\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\user_logo.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seek_thumb.png",
+        "source": "D:\\android\\Juicevendingmachine1\\Juicevendingmachine1\\app\\src\\main\\res\\drawable-xhdpi\\seek_thumb.png"
+    }
+]

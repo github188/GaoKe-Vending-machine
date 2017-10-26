@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true" >
+    <!--开关动画-->
+    <item android:drawable="@drawable/boot1" android:duration="5" />
+    <item android:drawable="@drawable/boot2" android:duration="5" />
+    <item android:drawable="@drawable/boot3" android:duration="5" />
+    <item android:drawable="@drawable/boot4" android:duration="5" />
+    <item android:drawable="@drawable/boot5" android:duration="5" />
+    <item android:drawable="@drawable/boot6" android:duration="5" />
+    <item android:drawable="@drawable/boot7" android:duration="5" />
+    <item android:drawable="@drawable/boot8" android:duration="5" />
+    <item android:drawable="@drawable/boot9" android:duration="5" />
+    <item android:drawable="@drawable/boot10" android:duration="5" />
+    <item android:drawable="@drawable/boot11" android:duration="5" />
+    <item android:drawable="@drawable/boot12" android:duration="5" />
+    <item android:drawable="@drawable/boot13" android:duration="5" />
+    <item android:drawable="@drawable/boot14" android:duration="5" />
+    <item android:drawable="@drawable/boot15" android:duration="5" />
+    <item android:drawable="@drawable/boot16" android:duration="5" />
+    <item android:drawable="@drawable/boot17" android:duration="5" />
+    <item android:drawable="@drawable/boot18" android:duration="5" />
+    <item android:drawable="@drawable/boot19" android:duration="5" />
+    <item android:drawable="@drawable/boot20" android:duration="5" />
+    <item android:drawable="@drawable/boot21" android:duration="5" />
+
+</animation-list>

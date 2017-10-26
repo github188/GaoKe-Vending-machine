@@ -1,0 +1,5 @@
+com\github\wxpay\sdk\WXPayUtil.class
+com\github\wxpay\sdk\WXPay.class
+com\github\wxpay\sdk\WXPayConstants.class
+com\github\wxpay\sdk\WXPayConfig.class
+com\github\wxpay\sdk\WXPayConstants$SignType.class
